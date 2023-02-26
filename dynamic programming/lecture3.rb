@@ -9,12 +9,12 @@
     f(n) = f(n-1) + n
 =end
 
-def nSum(n)
+def nSum(number)
   dp = []
   dp[0] = 0
-  (1..n).each { |i|
+  (1..number).each { |i|
     dp[i] = dp[i - 1] + i
   }
-  return dp[n]
+  return dp[number]
 end
 puts nSum(10)
