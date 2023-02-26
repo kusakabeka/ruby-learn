@@ -27,10 +27,10 @@ def climb_stairs(n)
 	dp[0] = 1
 	dp[1] = 1
 	dp[2] = 2
-	for i in 3 .. n
-		 dp[i] = dp[i-1] + dp[i-2] + dp[i-3]
-	end
-	return dp[n ]
+	(3..n).each { |i|
+		dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3]
+	}
+	dp[n]
 end
 n = gets.to_i
 puts climb_stairs(n)
