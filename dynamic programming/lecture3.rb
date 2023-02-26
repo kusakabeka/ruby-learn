@@ -4,6 +4,6 @@ def nSum(n)
   for i in 1..n
     dp[i] = dp[i - 1] + i
   end
-  print dp[n]
+  return dp[n]
 end
-nSum(10)
+puts nSum(10)
