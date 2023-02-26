@@ -22,18 +22,19 @@
 =end
 
 # time complexity: O(n)
-# space complexity: O(n)
+# space complexity: O(1)
 
 def climb_stairs(n)
-  dp = []
-  dp[0] = 1
-  dp[1] = 1
+  a = 1
+  b = 1
   (2..n).each { |i|
-    dp[i] = dp[i - 1] + dp[i - 2]
+    @c = a + b
+    a = b
+    b = @c
   }
-  dp[n]
+  @c
 end
 
 n = gets.to_i
 
-puts climb_stairs(5)
+puts climb_stairs(n)
