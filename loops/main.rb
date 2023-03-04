@@ -6,4 +6,4 @@ for i in 1..number
   arr.push(i)
 end
 puts arr.to_s
-puts "Сумма чисел: #{arr.sum}"
+puts "Сумма чисел: #{arr.s
