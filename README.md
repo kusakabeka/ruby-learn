@@ -2,9 +2,9 @@ Ruby and Ruby on Rails Learn
 ============================
 Данный репозиторий посвящен изучению языка Ruby и его фреймворка Ruby on Rails.
 
-## Course plan
+## Course plan for Ruby language
 
-+ [Lecture 0: Why FP and Haskell](#lecture-0)
++ [Lecture 0: Почему Ruby?](#lecture-0)
 + [Lecture 1: Stack build tool](#lecture-1)
 + [Lecture 2: Basic Syntax](#lecture-2)
 + [Lecture 3: Datas, Classes, Instances](#lecture-3)
@@ -23,7 +23,7 @@ Ruby and Ruby on Rails Learn
 
 Templates for homework: https://github.com/ChShersh/fp-homework-templates
 
-## <a name="lecture-0">Lecture 0: Why FP and Haskell</a> [↑](#course-plan)
+## <a name="lecture-0">Lecture 0: Почему Ruby?</a> [↑](#course-plan)
 + Official resources
   * [Haskell Lang (official site)](https://haskell-lang.org/)
   * [Haskell (official site)](https://www.haskell.org/)
