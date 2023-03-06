@@ -1,5 +1,5 @@
-Haskell ITMO course at CTD
-==========================
+Ruby and Ruby on Rails Learn
+============================
 
 Here you can find plan and presentations on the Haskell course authored by
 [Dmitry Kovanikov](https://github.com/ChShersh "ChShersh's GitHub") and
