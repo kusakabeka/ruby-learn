@@ -1,21 +1,8 @@
 Ruby and Ruby on Rails Learn
 ============================
-
-Here you can find plan and presentations on the Haskell course authored by
-[Dmitry Kovanikov](https://github.com/ChShersh "ChShersh's GitHub") and
-[Arseniy Seroka](https://github.com/jagajaga "jagajaga's GitHub") with subsequent
-contributions by [George Agapov](https://github.com/georgeee "georgeee's GitHub"),
-[Ilya Peresadin](https://github.com/pva701 "pva701's GitHub"), [Roman Melnikov](https://github.com/rvem "rvem's GitHub")
-and [Artem Yurchenko](https://github.com/murcake "murcake's GitHub").
-
-This course is always under development and always improving constantly because there's
-no limit for the best Haskell course.
-
-You can always contact us via fp.ctd.itmo [at] serokell.io
+Данный репозиторий посвящен изучению языка Ruby и его фреймворка Ruby on Rails.
 
 ## Course plan
-
-All slides: https://slides.com/fp-ctd
 
 + [Lecture 0: Why FP and Haskell](#lecture-0)
 + [Lecture 1: Stack build tool](#lecture-1)
