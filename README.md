@@ -32,15 +32,14 @@ Templates for homework: https://github.com/ChShersh/fp-homework-templates
 + Useful unofficial resources
   * [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 + About Haskell & some wikis
-  * [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell)
+  * [Ruby WikiBook](https://ru.wikibooks.org/wiki/Ruby)
   * [Haskell Wiki](https://wiki.haskell.org/Haskell)
-  * [Comparison of functional programming languages](https://en.wikipedia.org/wiki/Comparison_of_functional_programming_languages)
 + Try Haskell in web
-  * [Try Haskell!](https://tryhaskell.org/)
-  * [Repl.It](https://repl.it/languages/haskell)
-  * [Haskell.Godbolt](https://haskell.godbolt.org/ "Observe GHC assembly")
+  * [TryRuby](https://try.ruby-lang.org/)
+  * [Repl.It](https://replit.com/languages/ruby)
+  * [Haskell.Godbolt](https://ruby.godbolt.org/)
 + Editors (and IDE's for Haskell)
-  * [Haskell IDE chart (feature list of IDE's)](https://github.com/rainbyte/haskell-ide-chart)
+  * [Ruby IDE](https://github.com/rainbyte/haskell-ide-chart)
   * [Configure your `ghci`](http://dev.stephendiehl.com/editor_talk.html)
 + Suggested tutorials and other useful online courses
   * In Russian
