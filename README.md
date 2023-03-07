@@ -28,7 +28,7 @@ Templates for homework: https://github.com/ChShersh/fp-homework-templates
   * [Ruby Lang (official site)](https://www.ruby-lang.org)
   * [Ruby on JVM (official site)](https://www.jruby.org/)
   * [Ruby Docs](https://ruby-doc.org/3.1.2/)
-  * [Hackage: central package archive](http://hackage.haskell.org/)
+  * [RubyGems](https://rubygems.org/)
 + Useful unofficial resources
   * [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 + About Haskell & some wikis
