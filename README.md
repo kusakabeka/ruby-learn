@@ -25,7 +25,7 @@ Templates for homework: https://github.com/ChShersh/fp-homework-templates
 
 ## <a name="lecture-0">Lecture 0: Почему Ruby?</a> [↑](#course-plan)
 + Official resources
-  * [Haskell Lang (official site)](https://haskell-lang.org/)
+  * [Ruby Lang (official site)](https://www.ruby-lang.org)
   * [Haskell (official site)](https://www.haskell.org/)
   * [Stackage: stable source of Haskell packages](https://www.stackage.org/)
   * [Hackage: central package archive](http://hackage.haskell.org/)
