@@ -29,18 +29,16 @@ Templates for homework: https://github.com/ChShersh/fp-homework-templates
   * [Ruby on JVM (official site)](https://www.jruby.org/)
   * [Ruby Docs](https://ruby-doc.org/3.1.2/)
   * [RubyGems](https://rubygems.org/)
-+ Useful unofficial resources
-  * [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
-+ About Haskell & some wikis
++ About Ruby & some wikis
   * [Ruby WikiBook](https://ru.wikibooks.org/wiki/Ruby)
-  * [Haskell Wiki](https://wiki.haskell.org/Haskell)
-+ Try Haskell in web
++ Try Ruby in web
   * [TryRuby](https://try.ruby-lang.org/)
   * [Repl.It](https://replit.com/languages/ruby)
   * [Haskell.Godbolt](https://ruby.godbolt.org/)
-+ Editors (and IDE's for Haskell)
-  * [Ruby IDE](https://github.com/rainbyte/haskell-ide-chart)
-  * [Configure your `ghci`](http://dev.stephendiehl.com/editor_talk.html)
++ Editors (and IDE's for Ruby)
+  * [RubyMine](https://www.jetbrains.com/ru-ru/ruby/)
+  * [Vim](https://github.com/vim-ruby/vim-ruby)
+  * [Sublime Text 3/4](https://www.sublimetext.com/)
 + Suggested tutorials and other useful online courses
   * In Russian
     - [OHaskell](https://www.ohaskell.guide/): Для совсем новичков, очень доступно, но очень мало
