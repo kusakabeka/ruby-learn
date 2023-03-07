@@ -34,14 +34,14 @@ Templates for homework: https://github.com/ChShersh/fp-homework-templates
 + Try Ruby in web
   * [TryRuby](https://try.ruby-lang.org/)
   * [Repl.It](https://replit.com/languages/ruby)
-  * [Haskell.Godbolt](https://ruby.godbolt.org/)
+  * [Ruby.Godbolt](https://ruby.godbolt.org/)
 + Editors (and IDE's for Ruby)
   * [RubyMine](https://www.jetbrains.com/ru-ru/ruby/)
   * [Vim](https://github.com/vim-ruby/vim-ruby)
   * [Sublime Text 3/4](https://www.sublimetext.com/)
 + Suggested tutorials and other useful online courses
   * In Russian
-    - [OHaskell](https://www.ohaskell.guide/): Для совсем новичков, очень доступно, но очень мало
+    - [RubyRush](https://rubyrush.ru/): Для совсем новичков, потрясающе объясняют, но лекции старые
     - [anton-k-github](http://anton-k.github.io/ru-haskell-book/book/home.html): Покрываются более продвинутые вещи + теория
     - [Stepic: Haskell (part 1)](https://stepik.org/course/75/): Лучший онлайн курс на русском; прекрасен для самостоятельно изучения
     - [Stepic: Haskell (part 2)](https://stepik.org/course/693/): Продолжение лучшего курса
