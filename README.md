@@ -6,8 +6,8 @@ Ruby and Ruby on Rails Learn
 
 + [Lecture 0: Почему Ruby?](#lecture-0)
 + [Lecture 1: Как и где установить Ruby?](#lecture-1)
-+ [Lecture 2: Базовый синтаксис](#lecture-2)
-+ [Lecture 3: Datas, Classes, Instances](#lecture-3)
++ [Lecture 2: Hello World](#lecture-2)
++ [Lecture 3: Переменные](#lecture-3)
 + [Lecture 4: Basic typeclasses: Monoid. Functor. Applicative](#lecture-4)
 + [Lecture 5: Monads](#lecture-5)
 + [Slides: Parser combinators and Property-based-testing](#lecture-5-continue)
